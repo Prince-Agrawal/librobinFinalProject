@@ -1,0 +1,29 @@
+.main {
+  margin-top: 35vh;
+  max-width: 500px;
+  margin-bottom: 20vh;
+}
+.per-row {
+  margin-top: 2%;
+  border-radius: none;
+  margin-bottom: 2%;
+  display: flex;
+  align-self: center;
+}
+.optionhead {
+  margin-top: -20%;
+  /* margin-left: 1%; */
+}
+.change-header {
+  font-size: 200%;
+}
+
+.per-row > input {
+  padding: 20px;
+  width: 100%;
+  border-color: #757de8;
+}
+.col-forg {
+  display: flex;
+  justify-content: center;
+}

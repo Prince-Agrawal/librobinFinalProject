@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+#seller-card {
+  background-color: rgb(255, 254, 253);
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+}
+.seller-btn {
+  background-color: white;
+  margin-left: 2%;
+  padding-left: 3%;
+  padding-right: 3%;
+  color: blue;
+}
+
+#seller-card-footer {
+  background-color: rgb(248, 245, 245);
+  margin-bottom: -1.5%;
+  border: none;
+  /* margin-top:1.5% */
+}
+.sell-row-content {
+  background-color: #d0c7fa;
+  opacity: 2;
+  margin-bottom: 10px;
+}
+.sell-col-content {
+  margin-bottom: 2.5%;
+  margin-top: 2.5%;
+
+}
+.seller-head {
+  font-size: 300%;
+  margin-left: 10%;
+}
+.seller-floating-btn {
+  width: 80px;
+  height: 80px;
+  background-color: #757de8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 50%;
+  color: #ffffff;
+  font-size: 40px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+  transition: background 0.25s;
+  outline: blue;
+  border: none;
+  cursor: pointer;
+}
+.seller-floating-btn:active {
+  background-color: #007d63;
+}
+#seller-nav-item{
+  cursor: pointer;
+}
+
+.seller-model_class {
+  margin-top: 100px;
+}
+
+.modal-header,
+.close {
+  background-color: #757de8;
+  color: white !important;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#seller-book-image{
+  height: 75px;
+  width: 75px;
+}
+
+.media-width{
+  margin-top: -1.5%;
+}
+
+.file-size-handel{
+  color: red;
+}

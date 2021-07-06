@@ -1,0 +1,51 @@
+.imagepay{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.imageass{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.headerpay{
+    text-align: center;
+}
+
+.form-sub{
+    
+    justify-content: center;
+    text-align: center;
+}
+
+.parapu{
+    text-align: center;
+    color:rgb(110, 233, 29);
+    font-weight: bold;
+}
+.paracon{
+    text-align: center;
+    color:black;
+    /* font-weight: bold; */
+}
+.col-pay{
+    text-align: center;
+}
+.row-query{
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+.col-payg{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.row-succ{
+    margin-top: 10px;
+}
+.main-pay{
+    margin-top:1vh;
+}

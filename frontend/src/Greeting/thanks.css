@@ -1,0 +1,26 @@
+@import url('https://kit.fontawesome.com/a076d05399.js');
+
+
+
+.para{
+    font-size: 150%;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    font-family: sans-serif;
+}
+.ro-content{
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    margin: 0 auto;
+}
+.thankMain{
+    margin-top:20vh;
+}
+.co-content{
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    margin: 0 auto;
+}

@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  margin-top: 2vh;
+}
+.badge{
+  font-size: medium;
+}
+.imagef{
+  justify-content: center;
+  text-align: center;
+  height: 250px;
+  width: 250px;
+
+}
+.merabtn{
+  border: none;
+  color:blue;
+  
+}
+.header{
+  padding: 15px;
+} 
+.desc-foot{
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.row-header{
+  background-color:rgb(233, 231, 229);
+}
+
+.col-foot{
+  padding: 10px;
+  /* background-color:rgb(223, 204, 163); */
+}
+.row-foot{
+background-color:rgb(233, 231, 229);
+margin-top: 5vh;
+/* opacity: 0.9; */
+}
+.row-mid{
+  margin-top: 5vh;
+  background-color: azure;  
+}
+.crosssign{
+  font-size: 200%;
+  /* font-weight: 200; */
+  margin-top: 3%;
+}

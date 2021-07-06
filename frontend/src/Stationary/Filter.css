@@ -1,0 +1,33 @@
+.filter-butto {
+  text-align: center;
+}
+.iconfilter {
+  font-size: 220%;
+  color: blue;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+#cardfilter{
+    margin-top:16%;
+     background-color:beige;
+}
+
+.row-stick{
+  bottom: 1px; 
+  align-items: center; 
+  text-decoration: none;
+  background-color:#757de8;
+  border: none;
+  cursor: pointer;
+  box-shadow:2px 2px 5px rgba(0, 0, 0, 0.25) ;
+  justify-content: center; 
+   position: fixed;
+   text-align: center;
+   color:white;
+}
+
+#mobile-filter-body{
+  margin-bottom: 100px;
+}
+
+

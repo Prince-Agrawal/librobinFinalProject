@@ -1,0 +1,18 @@
+
+/* @import url("https://kit.fontawesome.com/a076d05399.js"); */
+#foo {
+  color: black;
+}
+.sell-icon{
+  font-size: 115%;
+}
+.buy-icon{
+  font-size: 150%;
+}
+.buy-card{
+  font-size: 200%;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+

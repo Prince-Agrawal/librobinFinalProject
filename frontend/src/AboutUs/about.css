@@ -1,0 +1,28 @@
+.aboutTitle {
+  text-align: center;
+  background-color: white(196, 47, 255);
+  font-size: 300%;
+  margin-bottom: 2%;
+}
+.about-mission {
+   background-color: azure;
+  opacity: 0.7;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-top: -8px;
+}
+.top {
+  text-align: center;
+}
+.harshit {
+  font-size: 200%;
+}
+.team-photo {
+  justify-content: center;
+  text-align: center;
+}
+.team-image {
+  margin-top: 64px;
+  width: 180px;
+  height: 180px;
+}
